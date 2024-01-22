@@ -17,6 +17,7 @@ Use it as you want
 ## Making
 - Ease of Use.
 - NodeJS
+- MongoDB
   
 ## Screenshots 
  <p align="center">
