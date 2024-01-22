@@ -16,7 +16,7 @@ Use it as you want
  
 ## Making
 - Ease of Use.
-- Next
+- NodeJS
   
 ## Screenshots 
  <p align="center">
